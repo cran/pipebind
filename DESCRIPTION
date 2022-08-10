@@ -2,11 +2,11 @@ Package: pipebind
 Type: Package
 Title: Flexible Binding for Complex Function Evaluation with the Base R
         |> Pipe
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: person(
-    given = "Brenton M.", 
+    given = "Brenton M.",
     family = "Wiernik",
-    email = "brenton@wiernik.org", 
+    email = "brenton@wiernik.org",
     role = c("cre", "aut"),
     comment = c(ORCID = "0000-0001-9560-6336", Twitter = "@bmwiernik")
   )
@@ -18,10 +18,10 @@ Encoding: UTF-8
 Language: en-US
 URL: https://github.com/bwiernik/pipebind/
 BugReports: https://github.com/bwiernik/pipebind/issues
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.0
 NeedsCompilation: no
-Packaged: 2022-04-27 23:27:57 UTC; brenton
+Packaged: 2022-08-10 14:12:02 UTC; brentonw
 Author: Brenton M. Wiernik [cre, aut] (<https://orcid.org/0000-0001-9560-6336>,
     @bmwiernik)
 Repository: CRAN
-Date/Publication: 2022-04-29 08:00:06 UTC
+Date/Publication: 2022-08-10 15:30:02 UTC
